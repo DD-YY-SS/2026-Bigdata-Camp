@@ -1,0 +1,6 @@
+{
+  "name": "핀스냅 (PinSnap) - 인스타 캡처 저장 지도",
+  "description": "인스타그램이나 블로그 등에서 캡처한 이미지를 업로드하면 AI가 장소를 자동으로 분석하고 카테고리별로 지도에 저장해주는 나만의 맞춤 지도 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
